@@ -983,7 +983,6 @@
 <body>
     <header>
         <div class="navbar">
-            <div class="logo">AS</div>
             <nav>
                 <a href="#about">About</a>
                 <a href="#highlights">Highlights</a>
